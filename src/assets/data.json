@@ -1,0 +1,520 @@
+{
+    "symbols": [
+        {
+            "name": "long a",
+            "character": "eɪ",
+            "sound": "long_a",
+            "examples": [
+                {
+                    "text": "Lmao",
+                    "sound": "",
+                    "transcript": "asdasd"
+                }
+            ]
+        },
+        {
+            "name": "short a",
+            "character": "æ",
+            "sound": "short_a",
+            "examples": [
+                {
+                    "text": "",
+                    "sound": "",
+                    "transcript": ""
+                }
+            ]
+        },
+        {
+            "name": "long e",
+            "character": "i",
+            "sound": "long_e",
+            "examples": [
+                {
+                    "text": "",
+                    "sound": "",
+                    "transcript": ""
+                }
+            ]
+        },
+        {
+            "name": "short e",
+            "character": "ɛ",
+            "sound": "short_e",
+            "examples": [
+                {
+                    "text": "",
+                    "sound": "",
+                    "transcript": ""
+                }
+            ]
+        },
+        {
+            "name": "long i",
+            "character": "ɑɪ",
+            "sound": "long_i",
+            "examples": [
+                {
+                    "text": "",
+                    "sound": "",
+                    "transcript": ""
+                }
+            ]
+        },
+        {
+            "name": "short i",
+            "character": "ɪ",
+            "sound": "short_i",
+            "examples": [
+                {
+                    "text": "",
+                    "sound": "",
+                    "transcript": ""
+                }
+            ]
+        },
+        {
+            "name": "long o",
+            "character": "oʊ",
+            "sound": "long_o",
+            "examples": [
+                {
+                    "text": "",
+                    "sound": "",
+                    "transcript": ""
+                }
+            ]
+        },
+        {
+            "name": "short o",
+            "character": "ɑ",
+            "sound": "short_o",
+            "examples": [
+                {
+                    "text": "",
+                    "sound": "",
+                    "transcript": ""
+                }
+            ]
+        },
+        {
+            "name": "long u",
+            "character": "ju",
+            "sound": "long_u",
+            "examples": [
+                {
+                    "text": "",
+                    "sound": "",
+                    "transcript": ""
+                }
+            ]
+        },
+        {
+            "name": "short u",
+            "character": "ʌ",
+            "sound": "short_u",
+            "examples": [
+                {
+                    "text": "",
+                    "sound": "",
+                    "transcript": ""
+                }
+            ]
+        },
+        {
+            "name": "other u",
+            "character": "ʊ",
+            "sound": "u_sound",
+            "examples": [
+                {
+                    "text": "",
+                    "sound": "",
+                    "transcript": ""
+                }
+            ]
+        },
+        {
+            "name": "oo sound",
+            "character": "u",
+            "sound": "oo_sound",
+            "examples": [
+                {
+                    "text": "",
+                    "sound": "",
+                    "transcript": ""
+                }
+            ]
+        },
+        {
+            "name": "aw sound",
+            "character": "ɔ",
+            "sound": "aw_sound",
+            "examples": [
+                {
+                    "text": "",
+                    "sound": "",
+                    "transcript": ""
+                }
+            ]
+        },
+        {
+            "name": "oi sound",
+            "character": "ɔɪ",
+            "sound": "oi_sound",
+            "examples": [
+                {
+                    "text": "",
+                    "sound": "",
+                    "transcript": ""
+                }
+            ]
+        },
+        {
+            "name": "ow sound",
+            "character": "aʊ",
+            "sound": "ow_sound",
+            "examples": [
+                {
+                    "text": "",
+                    "sound": "",
+                    "transcript": ""
+                }
+            ]
+        },
+        {
+            "name": "schwa+r",
+            "character": "ɚ",
+            "sound": "r_sound",
+            "examples": [
+                {
+                    "text": "",
+                    "sound": "",
+                    "transcript": ""
+                }
+            ]
+        },
+        {
+            "name": "ar sound",
+            "character": "ɑr",
+            "sound": "ar_sound",
+            "examples": [
+                {
+                    "text": "",
+                    "sound": "",
+                    "transcript": ""
+                }
+            ]
+        },
+        {
+            "name": "or sound",
+            "character": "ɔr",
+            "sound": "or_sound",
+            "examples": [
+                {
+                    "text": "",
+                    "sound": "",
+                    "transcript": ""
+                }
+            ]
+        },
+        {
+            "name": "air sound",
+            "character": "ɛr",
+            "sound": "air_sound",
+            "examples": [
+                {
+                    "text": "",
+                    "sound": "",
+                    "transcript": ""
+                }
+            ]
+        },
+        {
+            "name": "b sound",
+            "character": "b",
+            "sound": "b_sound",
+            "examples": [
+                {
+                    "text": "",
+                    "sound": "",
+                    "transcript": ""
+                }
+            ]
+        },
+        {
+            "name": "ch sound",
+            "character": "ʧ",
+            "sound": "ch_sound",
+            "examples": [
+                {
+                    "text": "",
+                    "sound": "",
+                    "transcript": ""
+                }
+            ]
+        },
+        {
+            "name": "d sound",
+            "character": "d",
+            "sound": "d_sound",
+            "examples": [
+                {
+                    "text": "",
+                    "sound": "",
+                    "transcript": ""
+                }
+            ]
+        },
+        {
+            "name": "f sound",
+            "character": "f",
+            "sound": "f_sound",
+            "examples": [
+                {
+                    "text": "",
+                    "sound": "",
+                    "transcript": ""
+                }
+            ]
+        },
+        {
+            "name": "g sound",
+            "character": "g",
+            "sound": "g_sound",
+            "examples": [
+                {
+                    "text": "",
+                    "sound": "",
+                    "transcript": ""
+                }
+            ]
+        },
+        {
+            "name": "h sound",
+            "character": "h",
+            "sound": "h_sound",
+            "examples": [
+                {
+                    "text": "",
+                    "sound": "",
+                    "transcript": ""
+                }
+            ]
+        },
+        {
+            "name": "j sound",
+            "character": "ʤ",
+            "sound": "j_sound",
+            "examples": [
+                {
+                    "text": "",
+                    "sound": "",
+                    "transcript": ""
+                }
+            ]
+        },
+        {
+            "name": "k sound",
+            "character": "k",
+            "sound": "k_sound",
+            "examples": [
+                {
+                    "text": "",
+                    "sound": "",
+                    "transcript": ""
+                }
+            ]
+        },
+        {
+            "name": "l sound",
+            "character": "l",
+            "sound": "l_sound",
+            "examples": [
+                {
+                    "text": "",
+                    "sound": "",
+                    "transcript": ""
+                }
+            ]
+        },
+        {
+            "name": "m sound",
+            "character": "m",
+            "sound": "m_sound",
+            "examples": [
+                {
+                    "text": "",
+                    "sound": "",
+                    "transcript": ""
+                }
+            ]
+        },
+        {
+            "name": "n sound",
+            "character": "n",
+            "sound": "n_sound",
+            "examples": [
+                {
+                    "text": "",
+                    "sound": "",
+                    "transcript": ""
+                }
+            ]
+        },
+        {
+            "name": "ng sound",
+            "character": "ŋ",
+            "sound": "ng_sound",
+            "examples": [
+                {
+                    "text": "",
+                    "sound": "",
+                    "transcript": ""
+                }
+            ]
+        },
+        {
+            "name": "sound p",
+            "character": "p",
+            "sound": "p_sound",
+            "examples": [
+                {
+                    "text": "",
+                    "sound": "",
+                    "transcript": ""
+                }
+            ]
+        },
+        {
+            "name": "sound r",
+            "character": "r",
+            "sound": "r_sound",
+            "examples": [
+                {
+                    "text": "",
+                    "sound": "",
+                    "transcript": ""
+                }
+            ]
+        },
+        {
+            "name": "sound s",
+            "character": "s",
+            "sound": "s_sound",
+            "examples": [
+                {
+                    "text": "",
+                    "sound": "",
+                    "transcript": ""
+                }
+            ]
+        },
+        {
+            "name": "sh sound",
+            "character": "ʃ",
+            "sound": "sh_sound",
+            "examples": [
+                {
+                    "text": "",
+                    "sound": "",
+                    "transcript": ""
+                }
+            ]
+        },
+        {
+            "name": "t sound",
+            "character": "t",
+            "sound": "t_sound",
+            "examples": [
+                {
+                    "text": "",
+                    "sound": "",
+                    "transcript": ""
+                }
+            ]
+        },
+        {
+            "name": "th sound (unvoiced) ",
+            "character": "θ",
+            "sound": "unvoiced_th",
+            "examples": [
+                {
+                    "text": "",
+                    "sound": "",
+                    "transcript": ""
+                }
+            ]
+        },
+        {
+            "name": "th sound (voiced)",
+            "character": "ð",
+            "sound": "voiced_th",
+            "examples": [
+                {
+                    "text": "",
+                    "sound": "",
+                    "transcript": ""
+                }
+            ]
+        },
+        {
+            "name": "v sound",
+            "character": "v",
+            "sound": "v_sound",
+            "examples": [
+                {
+                    "text": "",
+                    "sound": "",
+                    "transcript": ""
+                }
+            ]
+        },
+        {
+            "name": "w sound",
+            "character": "w",
+            "sound": "w_sound",
+            "examples": [
+                {
+                    "text": "",
+                    "sound": "",
+                    "transcript": ""
+                }
+            ]
+        },
+        {
+            "name": "y sound",
+            "character": "y",
+            "sound": "y_sound",
+            "examples": [
+                {
+                    "text": "",
+                    "sound": "",
+                    "transcript": ""
+                }
+            ]
+        },
+        {
+            "name": "z sound",
+            "character": "z",
+            "sound": "z_sound",
+            "examples": [
+                {
+                    "text": "",
+                    "sound": "",
+                    "transcript": ""
+                }
+            ]
+        },
+        {
+            "name": "zh sound",
+            "character": "ʒ",
+            "sound": "zh_sound",
+            "examples": [
+                {
+                    "text": "",
+                    "sound": "",
+                    "transcript": ""
+                }
+            ]
+        }
+    ]
+}

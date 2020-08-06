@@ -1,0 +1,18 @@
+.symbol-board {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    grid-gap: 3rem 6rem;
+}
+
+@media only screen and (max-width: 768px) {
+    .symbol-board {
+        grid-template-columns: repeat(3, 1fr);
+    }
+}
+
+@media only screen and (max-width: 576px) {
+    .symbol-board {
+        grid-template-columns: 1fr;
+        // grid-gap: 3rem 6rem;
+    }
+}

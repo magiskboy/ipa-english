@@ -1,4 +1,6 @@
 import { Component } from '@angular/core';
+import { IPASymbol } from './symbol.model';
+import { AppService } from './app.service';
 
 @Component({
   selector: 'app-root',
@@ -6,5 +8,13 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.less']
 })
 export class AppComponent {
-  title = 'ipa';
+  symbols: IPASymbol[];
+
+  constructor(
+    private appService: AppService,
+  ) {
+    appService.symbols.subscribe(symbols => {
+      this.symbols = symbols;
+    })
+  }
 }

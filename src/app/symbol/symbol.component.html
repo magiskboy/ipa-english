@@ -1,0 +1,24 @@
+<div class="flipper">
+    <div class="symbol-wrapper"
+        [@flip]="showIPA ? 'flipped' : 'unflipped'"
+        (swipe)="onSwipe($event)"
+    >
+        <div class="layer character sides"
+            (click)="playSound(symbol.sound)"
+            *ngIf="showIPA">
+                {{ symbol.character }}
+        </div>
+        <div class="layer examples sides" *ngIf="!showIPA">
+            <ul>
+                <li 
+                    *ngFor="let word of symbol.examples"
+                    class="symbol-example"
+                >
+                    <p (click)="playSound(word.sound)">
+                        {{ word.text }}: <span>{{ word.transcript }}</span>
+                    </p>
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>
